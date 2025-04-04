@@ -1465,6 +1465,11 @@ main{
     align-self: flex-end;
 }
 
+.info img{
+    width:1560px;
+    hight:180px;
+}
+
 .braver-footer__lang-btn {
     background: #333;
     color: white;
